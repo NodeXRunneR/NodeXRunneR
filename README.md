@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @NodeXRunneR
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @N0D3RUN
 
-<!---
-NodeXRunneR/NodeXRunneR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 
+⚙️ Projects I participated in and contributed to
+
+Dymension - Mangata - Avail - Pryzm - NuLink - Dusk - Santiment - Madara - Cess - Humanode - Shardeum - Warden
+
+and more..
+
+I've run over 20 nodes so far. And I'm waiting for new projects.
